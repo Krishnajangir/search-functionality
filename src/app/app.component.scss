@@ -1,0 +1,36 @@
+.md-form {
+    margin: auto;
+    width: 90%;
+    position: relative;
+    top: 100px;
+
+}
+h3 {
+    text-align: center;
+    padding-top: 30px;
+    color: red;
+}
+h5 {
+    text-align: center;
+    color: red;
+}
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    top: 178px;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 15px;
+}
+.card-body{
+    display: flex;
+}
+.desc {
+   color: green;
+}
+.main {
+    margin: 30px;
+}
+p {
+    color: grey;
+}
